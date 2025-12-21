@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe AI – CustomTkinter
+# Tic Tac Toe AI – CustomTkinter
 
 A modern Tic Tac Toe game built using **Python** and **CustomTkinter**, featuring:
 - Dark & Light themes
@@ -8,9 +8,9 @@ A modern Tic Tac Toe game built using **Python** and **CustomTkinter**, featurin
 
 This project is beginner-friendly and suitable for **college mini-projects** or **AI fundamentals demos**.
 
----
 
-## ✨ Features
+
+# Features
 
 ✅ Modern GUI using CustomTkinter  
 ✅ Dark / Light theme toggle  
@@ -23,19 +23,13 @@ This project is beginner-friendly and suitable for **college mini-projects** or 
 ✅ Draw detection  
 ✅ Back to menu option  
 
----
 
-## 🛠️ Tech Stack
+
+# Tech Stack
 
 - Python 3.x
 - CustomTkinter
 - Minimax Algorithm (AI)
 
----
 
-## 🚀 How to Run the Project
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/tic-tac-toe-ai-customtkinter.git
-cd tic-tac-toe-ai-customtkinter
