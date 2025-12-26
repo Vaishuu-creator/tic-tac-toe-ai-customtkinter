@@ -35,15 +35,15 @@ This project is beginner-friendly and suitable for **college mini-projects** or 
 
 # 🚀 How to Run the Project
 
-# 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/tic-tac-toe-ai-customtkinter.git
-cd tic-tac-toe-ai-customtkinter
+## 1️⃣ Clone the repository
+    ```bash
+    git clone https://github.com/your-username/tic-tac-toe-ai-customtkinter.git
+    cd tic-tac-toe-ai-customtkinter
 
 # 2️⃣ Install dependencies
-```bash
-pip install customtkinter
+    ```bash
+    pip install customtkinter
 
 # 3️⃣ Run the application
-```bash
-python main.py
+    ```bash
+    python main.py
