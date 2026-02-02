@@ -11,9 +11,11 @@ Perfect for learning GUI development, game logic, and basic AI algorithms in Pyt
 ---
 
 ## Live Preview
- 
+
+### Menu (Light theme)
 ![Game Screenshot](https://github.com/Vaishuu-creator/tic-tac-toe-ai-customtkinter/blob/main/Screenshots/menu_lighttheme.png)  
 
+### Game Screen
 ![Game Screenshot](https://github.com/Vaishuu-creator/tic-tac-toe-ai-customtkinter/blob/main/Screenshots/gameplay_lighttheme.png)  
 
 ---
